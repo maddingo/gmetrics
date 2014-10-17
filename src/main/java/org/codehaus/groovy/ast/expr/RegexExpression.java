@@ -22,7 +22,7 @@ import org.codehaus.groovy.ast.GroovyCodeVisitor;
 import java.lang.reflect.Method;
 
 /**
- * Represents a regular expression of the form ~<double quoted string> which creates
+ * Represents a regular expression of the form ~&lt;double quoted string&gt; which creates
  * a regular expression. 
  * 
  * @author <a href="mailto:james@coredevelopers.net">James Strachan</a>
