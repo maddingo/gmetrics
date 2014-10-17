@@ -2,4 +2,17 @@
 /.project
 /.classpath
 /.settings/
-
+#these files are created by the test, the test should create them in target
+AllMetricSet.txt
+AllMetricsAntBuilderTestReport.html
+AllMetricsAntBuilderTestReport.xml
+AntBuilderTestReport.html
+AntBuilderTestSingleSeriesMethodHtmlReport.html
+AntBuilderTestSingleSeriesPackageHtmlReport.html
+AntBuilderTestXmlReport.xml
+CRAP_AntBuilderTest.html
+CoberturaCoverage_AntBuilderTest-GMetricsReport.html
+CoberturaCoverage_AntBuilderTest-GMetricsReport.xml
+GMetricsReport.html
+GMetricsSingleSeriesReport.html
+GMetricsXmlReport.xml
